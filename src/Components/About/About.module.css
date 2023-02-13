@@ -1,0 +1,12 @@
+.main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+.dialog {
+    display: flex;
+}
+.chatBar {
+    display: flex;
+    flex-direction: column;
+}

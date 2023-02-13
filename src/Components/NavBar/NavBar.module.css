@@ -1,0 +1,33 @@
+.nav {
+  padding: 20px 40px 20px 40px;
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+}
+
+.items {
+  display: flex;
+  list-style: none;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.logo:hover {
+    transform: translate(0px, -3px);
+    transition-duration: 0.5s;
+  }
+
+.active {
+  font-weight: 700;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+a:hover {
+  color: grey;
+  text-decoration: underline;
+}

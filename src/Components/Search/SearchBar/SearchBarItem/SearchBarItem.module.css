@@ -1,0 +1,8 @@
+.searchBarItem img {
+    width: 50px;
+    height: 50px;
+}
+.searchBarItem {
+    padding: 10px 20px;
+    text-align: center;
+}

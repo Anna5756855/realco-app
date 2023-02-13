@@ -1,0 +1,7 @@
+.searchBar {
+    display: flex;
+    overflow-x: scroll;
+}
+.searchBar:-webkit-scrollbar {
+    width: 0;
+  }

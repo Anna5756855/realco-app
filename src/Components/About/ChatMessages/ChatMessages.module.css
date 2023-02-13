@@ -1,0 +1,18 @@
+
+.main {
+    border: 2px solid black;
+    width: 700px;
+}
+.messagesFrom {
+    display: block;
+    text-align: left;
+    color: red;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.messagesTo {
+    padding-bottom: 20px;
+    padding-right: 20px;
+    text-align: right;
+    color: green;
+}
