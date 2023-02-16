@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/realco-app/precache-manifest.39c7f4e0fca364b00a0ac9a6ef0ebb17.js"
+  "/realco-app/precache-manifest.c8fd1504b57e4ae1de0782cb722c4490.js"
 );
 
 workbox.clientsClaim();
